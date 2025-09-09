@@ -13,8 +13,7 @@
 
 </div>
 
-<div 
- <a href="linkedin.com/in/miguel-s-48026b284" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-
+<br>
+  <a href="https://www.linkedin.com/in/miguel-s-48026b284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
